@@ -71,17 +71,7 @@ The dashboard is built to:
 
 ---
 
-## 🚀 How to Use
-1. Download the Excel file from the repository.
-2. Open the workbook in Microsoft Excel.
-3. Go to the **DASHBOARD** sheet to view the full analytics summary.
-4. Explore supporting sheets for deeper insights:
-   - Pivot tables  
-   - KPI breakdown  
-   - Geographic sales  
-   - Additional datasets  
 
----
 
 ## 📄 Screenshot Placeholder
 ![Dashboard Preview](https://github.com/amrutha-nair17/SALES-PERFORMANCE-AND-DASHBOARD-ANALYSIS/blob/main/image.png)
