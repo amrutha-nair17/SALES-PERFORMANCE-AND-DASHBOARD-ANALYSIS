@@ -86,4 +86,4 @@ The dashboard is built to:
 ## 📄 Screenshot Placeholder
 > *(Add your dashboard screenshots here once available)*  
 ```md
-![Dashboard Preview](images/dashboard.png
+![Dashboard Preview](https://github.com/amrutha-nair17/SALES-PERFORMANCE-AND-DASHBOARD-ANALYSIS/blob/main/image.png)
